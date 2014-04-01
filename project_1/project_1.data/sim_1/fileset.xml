@@ -230,7 +230,7 @@
       <Option Name="DesignMode" Val="RTL"/>
       <Option Name="TopModule" Val="DUMMY_PLUG_AXI4_TEST_1_1"/>
       <Option Name="TopAutoSet" Val="TRUE"/>
-      <Option Name="SimulationRunTime" Val=""/>
+      <Option Name="SimulationRunTime" Val="1000 ns"/>
       <Option Name="SrcSet" Val="sources_1"/>
     </Config>
   </FileSet>
